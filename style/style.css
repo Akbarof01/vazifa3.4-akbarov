@@ -1,0 +1,259 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #080C20;
+}
+.big-box{
+    width: 473px;
+    height: 736px;
+}
+.logo img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 35px;
+    margin-left: 218px;
+}
+.box{
+    width: 204px;
+    height: 231px;
+    flex-shrink: 0;
+    padding-top: 67px;
+}
+.box1{
+    width: 204px;
+    height: 231px;
+    flex-shrink: 0;
+    padding-top: 67px;
+    margin-left: 175px;
+}
+.orqa-fon{
+    display: flex;
+}
+h1{
+    color: aliceblue;
+}
+.text-box{
+    color: #FFF;
+    width: 437px;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 60px; /* 125% */
+    font-family: 'Manrope',;
+    padding-top: 139px;
+    padding: 39px -66px 41px 123px;
+    
+}
+.text-box h1 span{
+    color: #3EE9E5;
+}
+.text-box p {
+    width: 327px;
+    color: #777F98;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 25px; /* 166.667% */
+    margin-left: 63px;
+    padding-top: 23px;
+}.mishka{
+    padding: 32px 225px 225px ;
+}
+.logo1 img{
+    margin-left: 172px;
+    margin-right: 172px;
+}
+.logo1 h2{
+    width: 447px;
+    color: #FFF;
+text-align: center;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 32px;
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 5px;
+}
+.logo1 p{
+    margin-left: 50px;
+    margin-top: 114px;
+    color: #777F98;
+text-align: center;
+font-family: Manrope;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px; /* 166.667% */
+width: 339px;
+padding-bottom: 50px;
+display: flex;  
+margin: 0 auto;
+gap: 30px;  
+}
+.logo2 img{
+    margin-left: 172px;
+    margin-right: 172px;
+}
+.logo2 h2{
+    width: 447px;
+    color: #FFF;
+text-align: center;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 32px;
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 5px;
+}
+.logo2 p{
+    margin-left: 50px;
+    margin-top: 114px;
+    color: #777F98;
+text-align: center;
+font-family: Manrope;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px; /* 166.667% */
+width: 339px;
+padding-bottom: 50px;
+display: flex;  
+margin: 0 auto;
+gap: 30px;  
+}
+.logo3 img{
+    margin-left: 172px;
+    margin-right: 172px;
+}
+.logo3 h2{
+    width: 447px;
+    color: #FFF;
+text-align: center;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 32px;
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 5px;
+}
+.logo3 p{
+    margin-left: 50px;
+    margin-top: 114px;
+    color: #777F98;
+text-align: center;
+font-family: Manrope;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px; /* 166.667% */
+width: 339px;
+padding-bottom: 50px;
+display: flex;  
+margin: 0 auto;
+gap: 30px;  
+}
+.logo4 img{
+    margin-left: 172px;
+    margin-right: 172px;
+}
+.logo4 h2{
+    width: 447px;
+    color: #FFF;
+text-align: center;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 32px;
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 5px;
+}
+.logo4 p{
+    margin-left: 50px;
+    margin-top: 114px;
+    color: #777F98;
+text-align: center;
+font-family: Manrope;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px; /* 166.667% */
+width: 339px;
+padding-bottom: 50px;
+display: flex;  
+margin: 0 auto;
+gap: 30px;  
+}
+.texts{
+    width: 327px;
+height: 135px;
+flex-shrink: 0;
+display: flex;
+align-items: center;
+justify-content: center;
+padding: 100px 0px 0px 114px;
+}
+.free{
+    padding: 100px 24px 24px 68px;
+}
+.free1{
+    padding: 50px 24px 24px 68px;
+}
+.chiziq{
+    color: #FFF;
+text-align: center;
+font-family: Manrope;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+width: 361px;
+padding: 143px 0px 0px 95px;
+background: url(/img/chiziq.png);
+}
+.email{
+    padding-top: 100px;
+}
+input{
+    border-radius: 24px;
+    width: 291px;
+    height: 48px;
+    padding: 10px;       
+    background-color:rgba(9, 63, 104, 1) ;
+    border: none;
+    padding: 0px 0px 0px 0px;
+}
+button{
+    width: 140px;
+    height: 38px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgba(62, 233, 229, 1);   
+    margin: 16px;
+    border: none; 
+    padding: 0px 0px 0px 0px;
+}
+html,
+body{
+    height: 100%;
+}
+
